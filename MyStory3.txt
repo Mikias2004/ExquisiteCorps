@@ -1,0 +1,1 @@
+I deleted MyStory1.txt and I added two file MyStory1.txt and MyStory2.txt.
